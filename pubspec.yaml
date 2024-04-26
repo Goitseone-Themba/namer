@@ -23,3 +23,8 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+desktop:
+    macos: ^3.0.0
+    windows: ^3.0.0
+    linux: ^3.0.0
